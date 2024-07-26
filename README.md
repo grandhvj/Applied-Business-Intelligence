@@ -9,7 +9,7 @@
 
 
 ## Repository Information
-### Repository's URL: []()
+### Repository's URL: [https://github.com/grandhvj/Applied-Business-Intelligence](https://github.com/grandhvj/Applied-Business-Intelligence)
 ### This is a private repository which is used to store all the codes related to course Applied Business Intelligence
 
 # Final Peoject
